@@ -51,7 +51,7 @@ This repository provides a FastAPI server optimized for Retrieval-Augmented Gene
 
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/fastapi-rag-server.git
+   [git clone https://github.com/fastapi-rag-server.git](https://github.com/prakritiiSingh/FastAPI-Server-for-Retrieval-Augmented-Generation-RAG-.git)
    cd fastapi-rag-server
    ```
 
